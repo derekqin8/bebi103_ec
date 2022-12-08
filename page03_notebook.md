@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interactive Figure 1
-permalink: interactive_a
+title: Analysis Notebook
+permalink: notebook
 sidebar: true
 interactive: hw9.1.html
 ---
@@ -16,8 +16,5 @@ Moving the slider shows you in finer detail the position and history of the past
 500 steps.
 
 <!-- The below line includes the interactive figure. Do not change! -->
-<center>
 
 {% include_relative interactives/{{page.interactive}} %}
-
-</center>
