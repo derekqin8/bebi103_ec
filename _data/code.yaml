@@ -1,11 +1,5 @@
 - script:
-  name: script1.py
+  name: qq.py
   desc: >
-    Super fancy script which calcualate some complicated stuff with
-    well-documented code.
-- script:
-  name: script2.py
-  desc: >
-    Yet another script that does something-or-other.
-
-
+    Code to generate Q-Q plots from the dataset using Gamma and 2 Poisson
+    process methods.

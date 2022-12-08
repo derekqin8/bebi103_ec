@@ -8,12 +8,9 @@ interactive: hw9.1.html
 
 ---
 
-## Figure Description
+## Analysis Notebook
 
-Below is an example of an embedded interactive figure. It generates
-two-dimensional random walks of 10,000 steps each time the button is clicked.
-Moving the slider shows you in finer detail the position and history of the past
-500 steps.
+Below is the notebook containing the work displayed on this website, which is an assignment for BEBi 103a at Caltech.
 
 <!-- The below line includes the interactive figure. Do not change! -->
 

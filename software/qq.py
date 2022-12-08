@@ -1,16 +1,9 @@
 # %%
 import pandas as pd
-import numpy as np
-import scipy.stats
-import scipy.optimize
-
-import numba
-import warnings
 
 import bokeh.io
 import bokeh.plotting
 import bokeh.models
-import iqplot
 import bebi103
 
 from utils import *
@@ -60,7 +53,7 @@ p_exp2 = bebi103.viz.qqplot(
 
 tabs.append(bokeh.models.widgets.Panel(
     child=p_exp2,
-    title='Gamma Model'
+    title='2 Poisson Process Model'
 ))
 
 bokeh.io.save(bokeh.models.widgets.Tabs(tabs=tabs))
