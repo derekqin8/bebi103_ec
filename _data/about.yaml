@@ -3,11 +3,11 @@
 # ------------------------------------------------------------------------------
 # This data file contains all information that will be displayed on the home
 # page of your website. The fields `title` and `authors` are necessary. These
-# keys cannot be changed or they will not be displayed on the website. 
+# keys cannot be changed or they will not be displayed on the website.
 #
 # The remainder of the fileds can be changed to fit your needs. The field name
 # (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
-# The content below will appear 
+# The content below will appear
 
 title: >
   Your Paper Title Here
@@ -25,7 +25,7 @@ Abstract: >
   math like
 
 
-  $$S = k_b\ln \Omega. \tag{1}$$
+  \[S = k_b\ln \Omega. \tag{1}\]
 
 
 
@@ -45,7 +45,7 @@ Abstract: >
   disrupt deep v ugh, banjo truffaut distillery flannel la croix copper mug. Af
   8-bit tattooed asymmetrical mumblecore swag direct trade iPhone disrupt
   exercitation mixtape.
-Summary:  >
+Summary: >
   A short summary of your work goes here. Think "significance statement".
   Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
   plaid ut. Id aesthetic venmo, palo santo aliqua photo booth blue bottle.
@@ -54,7 +54,7 @@ Summary:  >
   Hashtag affogato chambray vaporware subway tile, kogi helvetica ea tacos sint
   brooklyn. Williamsburg waistcoat raclette seitan glossier messenger bag
   dolore ramps, flannel magna nisi hot chicken elit pariatur kale chips.
-Acknowledgments: > 
+Acknowledgments: >
   Who helped you? Share the love! Valeria Rivera, Destiny Roach, Alberto 
   Fernandez, Trenton Rowland, Sherlyn Frederick, Mallory Irwin, Jazmyn Cohen,
   Jaylene Page, Kelsey Hayes, Sonny Wilson, Roy Taylor, Ryleigh Daugherty.
