@@ -1,8 +1,7 @@
-title: Your Research Project Title
+title: Analysis of Microtubule Catastrophe Times
 description: > # this means to ignore newlines until "baseurl:"
-  This website is an online repository for your manuscript. You should include a
-  concise (1-sentence) summary of your project here. This can be as simple as
-  the title of the paper.
+  This website displays analysis for microtubule catastrophe times as part of
+  BEBi 103a at Caltech.
 
 permalink: ":title/" # This declares the root of your website and shouldn't be touched.
 url: "https://derekqin8.github.io"
@@ -20,7 +19,7 @@ social-email: dqin@caltech.edu
 
 # You can include a logo for your work as a .png that is saved in the folder
 # 'assets/img/'. If you want a logo to show up, put the filename of the logo here
-author-img: logo.png # Comment this line out if you don't want a logo
+# author-img: logo.png # Comment this line out if you don't want a logo
 
 # Build settings for the website. Do not modify this unless you know what you
 # are doing.
