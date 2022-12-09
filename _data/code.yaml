@@ -23,3 +23,7 @@
   name: all_mle.py
   desc: >
     Code to generate MLEs for all tubulin concentrations.
+- script:
+  name: cr.py
+  desc: >
+    Code to generate plots for confidence regions.
