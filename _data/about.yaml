@@ -14,34 +14,23 @@ title: >
 authors: >
   Derek Qin, Haruna Tomono
 Abstract: >
-  This is a general purpose website template for conveying your data, code, and
-  overall scientific story to the general public! See the
-  [GitHub](https://github.com/gchure/reproducible_website) for the actual code
-  used to generate this website, along with lengthy documentation about how to use
-  it. This is meant to be used in tandem with the [GitHub repository template for
-  reproducible research](https://github.com/gchure/reproducible_research). The
-  Rest of this website is filled with dummy text (my favorite, [Hiptser
-  Ipsum](https://hipsum.co/)) for demonstrative purposes. It can even include
-  math like
-
-
-  $$S = k_b\ln \Omega. \tag{1}$$
-
-  test
-
-  Your abstract goes here.
-  Lorem ipsum dolor amet post-ironic aliquip next level vaporware, dolore
-  yuccie trust fund etsy officia blue bottle distillery ad. Raw denim swag
-  selvage wolf, direct trade air plant reprehenderit you probably haven’t heard
-  of them. Aute craft beer cray, pariatur la croix lumbersexual chillwave
-  fashion axe pug adipisicing woke banh mi. Hammock asymmetrical sustainable
-  keffiyeh biodiesel. Banjo trust fund leggings direct trade. Cronut plaid
-  shaman whatever, disrupt ad tofu minim pug dolore forage franzen glossier.
-  Small batch humblebrag ut, artisan health goth edison bulb voluptate lorem
-  dolore chillwave mumblecore iPhone craft beer ex. Enim fingerstache kale
-  chips, VHS succulents butcher meggings woke lo-fi mustache chicharrones chia
-  id consectetur. Gochujang taiyaki incididunt, chartreuse tumblr poutine banjo
-  culpa helvetica eu master cleanse migas umami. Dreamcatcher aliquip hexagon
-  disrupt deep v ugh, banjo truffaut distillery flannel la croix copper mug. Af
-  8-bit tattooed asymmetrical mumblecore swag direct trade iPhone disrupt
-  exercitation mixtape.
+  Microtubule polymerization and catastrophe are biologically significant events
+  that are directly related to cell growth regulation, organization of the
+  intracellular space, organelle transport, and chromosome segregation, among
+  many other biological processes. Understanding the breakdown of these
+  structural units is important in learning about the biophysics of the cell.
+  In the [2011 *Cell* paper by Gardner, et al.](https://www.sciencedirect.com/science/article/pii/S0092867411012876?via%3Dihub),
+  they quantified microtubule catastrophe events at different tubulin
+  concentrations using time-wise fluroscence imaging of labeled and unlabeled
+  tubulin. These images were previously analyzed to produce quantitative data
+  about microtubule catastrophe times. Using various techniques taught in
+  BE/Bi 103a, two theoretical models for the catastrophe times were assessed
+  against this data set: Gamma distribution and a two-Poisson process model.
+  Using the least squares method for maximum likelihood estimates (MLE),
+  visualizations such as Q-Q plots and predictive ECDFs, and the Akaike weight
+  numerical indicator for model assessment, we found that a Gamma distribution
+  theoretical model was better suited for predicting microtubule catastrophe
+  times. By the $\alpha$ and $\beta$ MLEs obtained for various tubulin
+  concentrations according to the Gamma distribution, we infer that the
+  concentration of tubulin is positively correlated with the microtubule
+  catastrophe times.
