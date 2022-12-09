@@ -1,4 +1,8 @@
 - script:
+  name: utils.py
+  desc: >
+    Utility functions used in the analysis.
+- script:
   name: qq.py
   desc: >
     Code to generate Q-Q plots from the dataset using Gamma and 2 Poisson
@@ -11,3 +15,7 @@
   name: diffs.py
   desc: >
     Code to generate difference between observed ECDF and predictive ECDFs.
+- script:
+  name: all_mle.py
+  desc: >
+    Code to generate MLEs for all tubulin concentrations.
